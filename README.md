@@ -11,7 +11,7 @@ SWAPI is a React App based around the Star Wars API that displays different cate
 React, ES6, Fetch, Promises, Routes, propTypes, Jest/Enzyme
 
 ### Installation:
-Check out the live site here: 
+Check out the live site here: https://mschneider247.github.io/swapi-trivia/#/
 Otherwise, clone down this repo.  Then in your terminal run npm install followed by npm run.  Then visit localhost 3000 in your browser!
 
 ### Screenshots
